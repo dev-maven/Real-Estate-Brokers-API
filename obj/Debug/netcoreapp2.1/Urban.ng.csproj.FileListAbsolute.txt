@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Urban.ng\bin\Debug\netcoreapp2.1\Urban.ng.deps.json
+C:\Users\admin\source\repos\Urban.ng\bin\Debug\netcoreapp2.1\Urban.ng.runtimeconfig.json
+C:\Users\admin\source\repos\Urban.ng\bin\Debug\netcoreapp2.1\Urban.ng.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Urban.ng\bin\Debug\netcoreapp2.1\Urban.ng.dll
+C:\Users\admin\source\repos\Urban.ng\bin\Debug\netcoreapp2.1\Urban.ng.pdb
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.AssemblyInfo.cs
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.dll
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.pdb
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Urban.ng\obj\Debug\netcoreapp2.1\Urban.ng.csprojAssemblyReference.cache
